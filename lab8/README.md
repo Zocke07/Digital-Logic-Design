@@ -3,8 +3,7 @@
 ➢ To learn how to write VHDL programs to implement sequential circuits  
 ➢ To learn how to debug a moderately complicated VHDL program  
 ◼ Background knowledge  
-19. Read Fundamentals of Logic Design to refresh the knowledge of sequential   
-circuit design using VHDL  
+19. Read Fundamentals of Logic Design to refresh the knowledge of sequential circuit design using VHDL  
 ◼ Experiments, observations, and discussion  
 # Project Part 1
 1. In the project you will build a simple traffic model using the FPGA board. The model has two sets of traffic lights (with each set having Red, Yellow, 
